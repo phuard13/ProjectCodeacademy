@@ -1,0 +1,2 @@
+# ProjectCodeacademy
+Static page
